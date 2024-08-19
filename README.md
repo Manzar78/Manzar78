@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Manzar78
-- 👀 I’m interested in Flutter development ...
-- 🌱 I’m currently Flutter ...
-- 💞️ I’m looking to collaborate with tech leaders  ...
-- 📫 You can reach me by number on whatsapp 03119887616 ...
+👋 Hello, I’m @Manzar78.
 
-<!---
-Manzar78/Manzar78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔍 I have a strong interest in Flutter development and am currently expanding my expertise in this area.
+
+🌱 I am actively learning and improving my skills in Flutter.
+
+🤝 I am seeking opportunities to collaborate with industry leaders and professionals in the tech community.
+
+📫 Feel free to connect with me via WhatsApp at +92 3119887616.
